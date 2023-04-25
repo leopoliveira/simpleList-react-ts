@@ -1,0 +1,23 @@
+input {
+  padding: .5rem;
+  margin: 2px;
+}
+
+#onlyStocked {
+  margin-right: .3rem;
+}
+
+.searchBar-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-checkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 1rem;
+}
